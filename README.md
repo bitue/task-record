@@ -3,10 +3,11 @@
 
 # Technologies Used :Python 
 ## Description 
-## TaskMangement using python . Used class and methods to organize a task of user \n
-• User can creat new task and it will have task created time. User can update the task anytime \n
-• User can complete the task and it will be not available after completation \n
-• User can see all task, completed tasks,uncomplted tasks. 
+## TaskMangement using python  </br>
+. Used class and methods to organize a task of user </br>
+• User can creat new task and it will have task created time. User can update the task anytime  </br>
+• User can complete the task and it will be not available after completation  </br>
+• User can see all task, completed tasks,uncomplted tasks.  </br>
 
 
 ## cli view
